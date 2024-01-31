@@ -1,0 +1,13 @@
+img {
+    width: 250px;
+}
+
+.flex-container {
+    background-color: dodgerblue;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  
